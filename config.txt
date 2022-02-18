@@ -1,0 +1,5 @@
+DateTime_15/07/2022 22:15
+TimeZone_CET
+EstTime_15 min.
+EnvAffected_Production
+Services_New Johnson - Device management, Engineering - Data collection

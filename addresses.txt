@@ -1,0 +1,2 @@
+john.doe@gmail.com, John, 1
+donald.newmann@seznam.cz, Donald, 0
